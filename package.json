@@ -1,0 +1,1 @@
+{"name":"makefun-pump-this-bounty-20261126","private":true,"scripts":{"start":"node main.ts","test":"node --test test.ts"},"type":"module","version":"1.0.0"}
